@@ -41,5 +41,5 @@ int main() {
         print7(n);
     }
 
-    return 0;
+
 }
